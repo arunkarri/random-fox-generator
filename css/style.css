@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+.container-fluid {
+  padding: 10px 40px;
+}
+.content-div {
+  justify-content: center;
+}
+.cat-quote {
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  letter-spacing: 5px;
+  font-style: italic;
+  border-radius: 10px;
+}
+.cat-btn {
+  display: block;
+}
+.spinner-border {
+  height: 100px;
+  width: 100px;
+}
+.card-img-top{
+  height: 80%;
+}
+.refresh {
+  float: right;
+  margin: 10px;
+  color: #3643fc;
+  cursor: pointer;
+}
